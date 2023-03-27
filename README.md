@@ -1,0 +1,2 @@
+# exercise---api---youtube
+Created using replit, a script to grab youtube data. This project involved using functions and dictionaries. I was also introduced to APIs and how to request them from any YouTube channel to retrieve data and input into my code.
